@@ -1,0 +1,14 @@
+# 虚拟环境
+venv/
+__pycache__/
+*.pyc
+
+# 敏感文件（不要上传）
+.env
+tokens.db
+
+# macOS
+.DS_Store
+
+# 运行产物
+*.log
